@@ -1,0 +1,6 @@
+SpeechRecognition
+pyttsx3
+beautifulsoup4
+requests
+wikipedia
+wolframalpha
